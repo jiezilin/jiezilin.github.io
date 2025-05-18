@@ -22,16 +22,16 @@ div.lindivgrey{
 }
 
 .lincrop{
-   height: 300px;
-   overflow: hidden;
+   height: 100%;
+   overflow: auto;
    object-fit: cover;
    margin: 10px 5px;
    border-radius: 20px;
 }
 
 .llcrop{
-   height: 400px;
-   overflow: hidden;
+   height: 100%;
+   overflow: auto;
    object-fit: cover;
    margin: 10px 5px;
    border-radius: 10px;
