@@ -3,13 +3,13 @@ p{
 }
 
 a.linlink {
-   padding: 5px ;
+   padding: 0px 10px ;
    margin: 0px 0px 0px 10px ;
-   border-radius: 30px;
-   color: cornflowerblue;
+   border-radius: 20px;
+   color: #6c7769;
 }
 a.linlink:hover {
-   background-color: cornflowerblue;
+   background-color: #6c7769;
    color: white;
 }
 
@@ -42,12 +42,12 @@ div.lindivgrey{
    background-image: url("../assets/img/10.jpg");
    background-size: cover;
    background-repeat:no-repeat ;
-  
+   text-align: center;
+   background-position:
 }
 
-.card{
-   width: 100%;
-   height: 100%;
+.list-group{
+   width: 700px;
    object-fit: cover;
    background-color: #238320;
    background-image: url(/assets/img/14.jpg);
@@ -58,3 +58,31 @@ section{
    background-image: url(/assets/img/11.jpg);
 }
 
+.card{
+   background-color: #238320;   
+   background-image: url(/assets/img/14.jpg);
+}
+
+.linserif{
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.linsans{
+  font-family: "Noto Sans TC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.linscript{
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.linht{
+   color: #238320;
+}

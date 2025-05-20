@@ -4859,7 +4859,7 @@ textarea.form-control-lg {
   z-index: 2;
   color: var(--bs-list-group-active-color);
   background-color:  #6c7769;
-  background-image: url(/assets/img/13.jpg);
+  background-image: url(/assets/img/12.jpg);
   border-color: var(--bs-list-group-active-border-color);
   color: #000;
 }
@@ -8040,7 +8040,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #6c7769;
 }
 
 .text-secondary {
@@ -10930,7 +10930,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #6c7769;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
