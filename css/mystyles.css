@@ -19,7 +19,7 @@ div.lindivgrey{
    padding: 20px;
    border-radius: 20px;
    border: 2px solid rgb(149, 134, 134);
-   width: 600px;
+   width: 500px;
 }
 
 .lincrop{
@@ -47,7 +47,7 @@ div.lindivgrey{
 }
 
 .list-group{
-   width: 700px;
+   width: 500px;
    object-fit: cover;
    background-color: #238320;
    background-image: url(/assets/img/14.jpg);
@@ -86,3 +86,11 @@ section{
 .linht{
    color: #238320;
 }
+
+.star{
+   color: gold;   
+   background-color: goldenrod;
+   border-radius: 8px
+}
+
+
